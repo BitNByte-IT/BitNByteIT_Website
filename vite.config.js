@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 // If you host at https://<username>.github.io/<repo>/, change base to '/<repo>/'.
 export default defineConfig({
   plugins: [react()],
-  base: '/',
+  base: '/BitNByteIT_Website/',
 })
