@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "blog-1",
+      "title": "Why Your Business Needs a Custom Website in 2026",
+      "slug": "why-custom-website-2026",
+      "excerpt": "A professional website is more than just a digital address — it's your brand identity, your customer's first impression, and your growth engine.",
+      "category": "Web Development",
+      "date": "2026-01-15",
+      "readTime": "5 min read",
+      "author": "BitNByte Team",
+      "cover": "/posts/post1.jpg",
+      "content": "A professional website is more than just a digital address — it's your brand identity, your customer's first impression, and your business growth engine. In this post, we explore why custom websites outperform templates and how to plan yours."
+    },
+    {
+      "id": "blog-2",
+      "title": "Your Work. Your Story. Your Portfolio.",
+      "slug": "build-your-portfolio",
+      "excerpt": "A digital portfolio is more than a resume — it's your identity, your skills, and your opportunities all in one place.",
+      "category": "Portfolio",
+      "date": "2026-01-08",
+      "readTime": "4 min read",
+      "author": "BitNByte Team",
+      "cover": "/posts/post2.jpg",
+      "content": "Whether you're a student, developer, designer, or freelancer — a portfolio website turns your skills into opportunities. Here's how to build one that gets you noticed."
+    },
+    {
+      "id": "blog-3",
+      "title": "Final Year Project Stress? Here's a Roadmap",
+      "slug": "final-year-project-roadmap",
+      "excerpt": "From idea to implementation — a step-by-step guide for university students tackling their final year project.",
+      "category": "Academic",
+      "date": "2025-12-20",
+      "readTime": "7 min read",
+      "author": "BitNByte Team",
+      "cover": "/posts/post3.jpg",
+      "content": "Semester and final year projects can be overwhelming. This guide walks through choosing a topic, planning sprints, documentation, deployment, and presentation tips."
+    }
+  ]
+}

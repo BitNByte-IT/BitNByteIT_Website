@@ -1,0 +1,67 @@
+{
+  "company": {
+    "name": "BitNByte IT",
+    "tagline": "Software Development | Web Development",
+    "shortTagline": "Building scalable, secure, and high-performance digital solutions for businesses.",
+    "longDescription": "BitNByte IT is a full-service technology solutions company dedicated to helping businesses, entrepreneurs, and organizations succeed in the digital world. We offer end-to-end IT solutions including custom software, web & mobile applications, cloud, AI, and reliable tech support.",
+    "headline": "Software Company | Web • Mobile • AI • Cloud • Custom Software | Innovative Digital Solutions",
+    "founded": "2024",
+    "location": "Mirpur, Dhaka, Bangladesh"
+  },
+  "contact": {
+    "email": "bitnbyteit1@gmail.com",
+    "whatsapp": ["+8801521329669", "+8801988304548"],
+    "phone": "+8801521329669",
+    "address": "Mirpur, Dhaka, Bangladesh",
+    "website": "https://bitnbyteit.com"
+  },
+  "social": {
+    "github": "https://github.com/bitNbyteIT",
+    "linkedin": "https://www.linkedin.com/in/bitnbyte-it-6805663a8/",
+    "facebook": "https://www.facebook.com/profile.php?id=61587507151404",
+    "instagram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "googleSheets": {
+    "contactFormUrl": "REPLACE_WITH_YOUR_APPS_SCRIPT_URL",
+    "newsletterUrl": "REPLACE_WITH_YOUR_APPS_SCRIPT_URL"
+  },
+  "stats": [
+    { "label": "Projects Delivered", "value": "50+" },
+    { "label": "Happy Clients", "value": "30+" },
+    { "label": "Years of Experience", "value": "3+" },
+    { "label": "Technologies Mastered", "value": "25+" }
+  ],
+  "terminalLines": [
+    "$ bitnbyte init --project new-venture",
+    "→ Spinning up MERN stack...",
+    "✓ React 18 + Vite ready",
+    "✓ Node + Express server online",
+    "✓ MongoDB cluster connected",
+    "$ ai.deploy('your-vision')",
+    "→ Training models on business data...",
+    "✓ Solution scaled to production",
+    "$ npm run build:future"
+  ],
+  "marquee": [
+    "React",
+    "Next.js",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "PostgreSQL",
+    "TypeScript",
+    "Python",
+    "TensorFlow",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Tailwind CSS",
+    "Figma",
+    "GraphQL",
+    "Redis",
+    "Flutter",
+    "React Native"
+  ]
+}

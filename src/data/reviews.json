@@ -1,0 +1,44 @@
+{
+  "reviews": [
+    {
+      "id": "r1",
+      "name": "Tanvir Rahman",
+      "role": "Founder, GreenLeaf Cafe",
+      "avatar": "TR",
+      "rating": 5,
+      "text": "BitNByte IT built our entire ordering system from scratch. The team is responsive, professional, and they actually understood what we needed before we did. Highly recommended."
+    },
+    {
+      "id": "r2",
+      "name": "Sadia Hossain",
+      "role": "CTO, EduTech Bangladesh",
+      "avatar": "SH",
+      "rating": 5,
+      "text": "We hired BitNByte for our LMS platform. Code quality, communication, and on-time delivery — all top-tier. They're now our long-term tech partner."
+    },
+    {
+      "id": "r3",
+      "name": "Rakib Hasan",
+      "role": "University Student",
+      "avatar": "RH",
+      "rating": 5,
+      "text": "Got their help for my final year project. They didn't just build it — they made sure I understood every part. Got an A+ thanks to them."
+    },
+    {
+      "id": "r4",
+      "name": "Mehedi Khan",
+      "role": "CEO, FastCart BD",
+      "avatar": "MK",
+      "rating": 5,
+      "text": "Our e-commerce site was outdated and slow. BitNByte rebuilt it in React and our conversions doubled in 3 months. Excellent ROI."
+    },
+    {
+      "id": "r5",
+      "name": "Nadia Akter",
+      "role": "Marketing Lead, FinHub",
+      "avatar": "NA",
+      "rating": 5,
+      "text": "Their landing page design is gorgeous and the SEO work paid off immediately — we're now ranking top 3 for our main keywords."
+    }
+  ]
+}

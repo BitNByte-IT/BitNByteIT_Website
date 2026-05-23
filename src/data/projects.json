@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "id": "p1",
+      "title": "E-commerce Platform",
+      "category": "Web Development",
+      "tags": ["React", "Node.js", "MongoDB", "Stripe"],
+      "description": "Full-featured e-commerce platform with payment integration, admin dashboard, and inventory management.",
+      "image": "/projects/ecommerce.svg",
+      "link": "#",
+      "year": "2025"
+    },
+    {
+      "id": "p2",
+      "title": "Portfolio Website Builder",
+      "category": "SaaS",
+      "tags": ["Next.js", "TypeScript", "Tailwind"],
+      "description": "A drag-and-drop portfolio builder for students, freelancers, and professionals.",
+      "image": "/projects/portfolio-builder.svg",
+      "link": "#",
+      "year": "2025"
+    },
+    {
+      "id": "p3",
+      "title": "School Management System",
+      "category": "Custom Software",
+      "tags": ["MERN", "Socket.io", "PDF Gen"],
+      "description": "End-to-end school management with attendance, grading, fee management, and parent portal.",
+      "image": "/projects/school-mgmt.svg",
+      "link": "#",
+      "year": "2024"
+    },
+    {
+      "id": "p4",
+      "title": "AI Customer Support Bot",
+      "category": "AI / ML",
+      "tags": ["OpenAI", "Python", "FastAPI"],
+      "description": "Custom LLM-powered support bot trained on company knowledge base — reduced response time by 80%.",
+      "image": "/projects/ai-bot.svg",
+      "link": "#",
+      "year": "2025"
+    },
+    {
+      "id": "p5",
+      "title": "Restaurant POS Mobile App",
+      "category": "Mobile App",
+      "tags": ["React Native", "Firebase"],
+      "description": "Point-of-sale system for restaurants with real-time order tracking and kitchen display integration.",
+      "image": "/projects/restaurant-pos.svg",
+      "link": "#",
+      "year": "2024"
+    },
+    {
+      "id": "p6",
+      "title": "Real Estate Listing Platform",
+      "category": "Web Development",
+      "tags": ["Next.js", "PostgreSQL", "MapBox"],
+      "description": "Property listing site with map search, virtual tours, and agent dashboard.",
+      "image": "/projects/realestate.svg",
+      "link": "#",
+      "year": "2025"
+    }
+  ]
+}
