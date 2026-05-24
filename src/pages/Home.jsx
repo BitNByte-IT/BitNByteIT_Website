@@ -168,8 +168,8 @@ export default function Home() {
                 transition={{ duration: 0.5, delay: i * 0.1 }}
                 className="card overflow-hidden group block"
               >
-                <div className="aspect-[4/3] overflow-hidden bg-brand-blue-950/30">
-                  <img src={p.image} alt={p.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
+                <div className="overflow-hidden bg-slate-100 dark:bg-brand-blue-950/30">
+                  <img src={p.image} alt={p.title} className="w-full h-auto block object-contain group-hover:scale-105 transition-transform duration-700" />
                 </div>
                 <div className="p-5">
                   <span className="text-[11px] font-mono text-brand-orange-500">{p.date}</span>

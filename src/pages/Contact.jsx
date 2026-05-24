@@ -155,7 +155,7 @@ export default function Contact() {
                     type="text"
                     value={form.name}
                     onChange={handleChange('name')}
-                    className={`w-full rounded-xl px-4 py-3 bg-white dark:bg-white/5 border ${errors.name ? 'border-rose-500' : 'border-slate-300 dark:border-white/15'} focus:outline-none focus:border-brand-orange-500 transition-colors`}
+                    className={`w-full rounded-xl px-4 py-3 bg-white dark:bg-slate-800 dark:text-slate-100 border ${errors.name ? 'border-rose-500' : 'border-slate-300 dark:border-white/15'} focus:outline-none focus:border-brand-orange-500 transition-colors`}
                     placeholder="John Doe"
                   />
                   {errors.name && <p className="mt-1 text-xs text-rose-500">{errors.name}</p>}
@@ -167,7 +167,7 @@ export default function Contact() {
                     type="email"
                     value={form.email}
                     onChange={handleChange('email')}
-                    className={`w-full rounded-xl px-4 py-3 bg-white dark:bg-white/5 border ${errors.email ? 'border-rose-500' : 'border-slate-300 dark:border-white/15'} focus:outline-none focus:border-brand-orange-500 transition-colors`}
+                    className={`w-full rounded-xl px-4 py-3 bg-white dark:bg-slate-800 dark:text-slate-100 border ${errors.email ? 'border-rose-500' : 'border-slate-300 dark:border-white/15'} focus:outline-none focus:border-brand-orange-500 transition-colors`}
                     placeholder="you@company.com"
                   />
                   {errors.email && <p className="mt-1 text-xs text-rose-500">{errors.email}</p>}
@@ -179,7 +179,7 @@ export default function Contact() {
                     type="tel"
                     value={form.phone}
                     onChange={handleChange('phone')}
-                    className={`w-full rounded-xl px-4 py-3 bg-white dark:bg-white/5 border ${errors.phone ? 'border-rose-500' : 'border-slate-300 dark:border-white/15'} focus:outline-none focus:border-brand-orange-500 transition-colors`}
+                    className={`w-full rounded-xl px-4 py-3 bg-white dark:bg-slate-800 dark:text-slate-100 border ${errors.phone ? 'border-rose-500' : 'border-slate-300 dark:border-white/15'} focus:outline-none focus:border-brand-orange-500 transition-colors`}
                     placeholder="+880..."
                   />
                   {errors.phone && <p className="mt-1 text-xs text-rose-500">{errors.phone}</p>}
@@ -190,7 +190,7 @@ export default function Contact() {
                   <select
                     value={form.topic}
                     onChange={handleChange('topic')}
-                    className={`w-full rounded-xl px-4 py-3 bg-white dark:bg-white/5 border ${errors.topic ? 'border-rose-500' : 'border-slate-300 dark:border-white/15'} focus:outline-none focus:border-brand-orange-500 transition-colors`}
+                    className={`w-full rounded-xl px-4 py-3 bg-white dark:bg-slate-800 dark:text-slate-100 border ${errors.topic ? 'border-rose-500' : 'border-slate-300 dark:border-white/15'} focus:outline-none focus:border-brand-orange-500 transition-colors [&>option]:bg-white [&>option]:dark:bg-slate-800 [&>option]:text-slate-900 [&>option]:dark:text-slate-100`}
                   >
                     <option value="">Select a topic...</option>
                     {topics.map((t) => <option key={t} value={t}>{t}</option>)}
@@ -204,7 +204,7 @@ export default function Contact() {
                 <select
                   value={form.budget}
                   onChange={handleChange('budget')}
-                  className="w-full rounded-xl px-4 py-3 bg-white dark:bg-white/5 border border-slate-300 dark:border-white/15 focus:outline-none focus:border-brand-orange-500 transition-colors"
+                  className="w-full rounded-xl px-4 py-3 bg-white dark:bg-slate-800 dark:text-slate-100 border border-slate-300 dark:border-white/15 focus:outline-none focus:border-brand-orange-500 transition-colors [&>option]:bg-white [&>option]:dark:bg-slate-800 [&>option]:text-slate-900 [&>option]:dark:text-slate-100"
                 >
                   <option value="">Prefer not to say</option>
                   <option value="<500">Under $500</option>
@@ -221,7 +221,7 @@ export default function Contact() {
                   rows={5}
                   value={form.message}
                   onChange={handleChange('message')}
-                  className={`w-full rounded-xl px-4 py-3 bg-white dark:bg-white/5 border ${errors.message ? 'border-rose-500' : 'border-slate-300 dark:border-white/15'} focus:outline-none focus:border-brand-orange-500 transition-colors resize-none`}
+                  className={`w-full rounded-xl px-4 py-3 bg-white dark:bg-slate-800 dark:text-slate-100 border ${errors.message ? 'border-rose-500' : 'border-slate-300 dark:border-white/15'} focus:outline-none focus:border-brand-orange-500 transition-colors resize-none`}
                   placeholder="Tell us about your project, goals, and timeline..."
                 />
                 {errors.message && <p className="mt-1 text-xs text-rose-500">{errors.message}</p>}
