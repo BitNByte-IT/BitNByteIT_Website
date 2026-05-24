@@ -34,15 +34,16 @@
     { "label": "Technologies Mastered", "value": "25+" }
   ],
   "terminalLines": [
-    "$ bitnbyte init --project new-venture",
-    "→ Spinning up MERN stack...",
-    "✓ React 18 + Vite ready",
-    "✓ Node + Express server online",
-    "✓ MongoDB cluster connected",
-    "$ ai.deploy('your-vision')",
-    "→ Training models on business data...",
-    "✓ Solution scaled to production",
-    "$ npm run build:future"
+    "$ bitnbyte services --list",
+    "→ Loading BitNByte IT services...",
+    "✓ Web Development   — React, Next.js, MERN Stack",
+    "✓ Mobile Apps       — React Native & Flutter",
+    "✓ Custom Software   — APIs, Dashboards & CMS",
+    "✓ UI/UX Design      — Figma to Pixel-perfect Code",
+    "✓ AI Integration    — Smart Features & Automation",
+    "✓ Cloud & DevOps    — AWS, Docker, CI/CD",
+    "$ bitnbyte contact --start-your-project",
+    "→ Our team responds within 24 hours. Let's build!"
   ],
   "marquee": [
     "React",
