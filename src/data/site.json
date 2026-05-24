@@ -10,9 +10,9 @@
   },
   "contact": {
     "email": "bitnbyteit1@gmail.com",
-    "whatsapp": ["+8801521329669", "+8801988304548"],
+    "whatsapp": ["+8801968820121"],
     "phone": "+8801521329669",
-    "address": "Mirpur, Dhaka, Bangladesh",
+    "address": "Dhaka, Bangladesh",
     "website": "https://bitnbyteit.com"
   },
   "social": {
@@ -36,12 +36,12 @@
   "terminalLines": [
     "$ bitnbyte services --list",
     "→ Loading BitNByte IT services...",
-    "✓ Web Development   — React, Next.js, MERN Stack",
-    "✓ Mobile Apps       — React Native & Flutter",
-    "✓ Custom Software   — APIs, Dashboards & CMS",
-    "✓ UI/UX Design      — Figma to Pixel-perfect Code",
-    "✓ AI Integration    — Smart Features & Automation",
-    "✓ Cloud & DevOps    — AWS, Docker, CI/CD",
+    "✓ Web Development  - React, Next.js, MERN Stack",
+    "✓ Mobile Apps       - React Native & Flutter",
+    "✓ Custom Software   - APIs, Dashboards & CMS",
+    "✓ UI/UX Design      - Figma to Pixel-perfect Code",
+    "✓ AI Integration    - Smart Features & Automation",
+    "✓ Cloud & DevOps    - AWS, Docker, CI/CD",
     "$ bitnbyte contact --start-your-project",
     "→ Our team responds within 24 hours. Let's build!"
   ],

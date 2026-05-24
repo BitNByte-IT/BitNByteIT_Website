@@ -104,7 +104,7 @@ export default function Hero() {
             <motion.div
               animate={{ y: [0, 10, 0] }}
               transition={{ duration: 5, repeat: Infinity, ease: 'easeInOut', delay: 0.5 }}
-              className="absolute -bottom-4 -left-4 glass-strong rounded-xl p-3 shadow-xl hidden sm:flex items-center gap-2"
+              className="absolute -bottom-12 -left-4 glass-strong rounded-xl p-3 shadow-xl hidden sm:flex items-center gap-2"
             >
               <div className="size-9 rounded-lg bg-brand-blue-500/20 flex items-center justify-center">
                 <Smartphone className="size-5 text-brand-blue-500" />
