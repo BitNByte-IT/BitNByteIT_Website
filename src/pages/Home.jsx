@@ -29,7 +29,7 @@ export default function Home() {
             eyebrow="What we do"
             title="Services that"
             accent="ship results"
-            description="From custom software to AI integrations — we build the digital infrastructure that scales your business."
+            description="From custom software to AI integrations - we build the digital infrastructure that scales your business."
           />
           <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-3">
             {featuredServices.map((s, i) => (
@@ -52,7 +52,7 @@ export default function Home() {
             eyebrow="Built for every screen"
             title="One codebase,"
             accent="every device"
-            description="Responsive design baked in — your product looks gorgeous on desktop, tablet, and mobile."
+            description="Responsive design baked in - your product looks gorgeous on desktop, tablet, and mobile."
           />
           <DeviceShowcase />
         </div>
@@ -203,7 +203,7 @@ export default function Home() {
                 Let's build something <span className="heading-gradient-warm">remarkable</span>
               </h2>
               <p className="text-slate-300 max-w-2xl mx-auto mb-8">
-                From idea to launch — we're with you every step of the way. Tell us about your project.
+                From idea to launch - we're with you every step of the way. Tell us about your project.
               </p>
               <Link to="/contact" className="btn-primary">
                 Start a conversation <ArrowRight className="size-4" />

@@ -35,7 +35,7 @@
       "title": "AI Customer Support Bot",
       "category": "AI / ML",
       "tags": ["OpenAI", "Python", "FastAPI"],
-      "description": "Custom LLM-powered support bot trained on company knowledge base — reduced response time by 80%.",
+      "description": "Custom LLM-powered support bot trained on company knowledge base - reduced response time by 80%.",
       "image": "/projects/ai-bot.svg",
       "link": "#",
       "year": "2025"

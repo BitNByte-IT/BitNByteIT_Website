@@ -5,7 +5,7 @@
       "icon": "Code2",
       "title": "Custom Software Development",
       "short": "Tailored applications built around your unique business workflows.",
-      "description": "We design and build custom software solutions that align perfectly with your operations — from internal tools and ERPs to specialized platforms.",
+      "description": "We design and build custom software solutions that align perfectly with your operations - from internal tools and ERPs to specialized platforms.",
       "features": ["MERN/MEAN stack", "Microservices", "API integrations", "Scalable architecture"]
     },
     {
@@ -13,7 +13,7 @@
       "icon": "Globe",
       "title": "Web Development",
       "short": "Modern, fast, and SEO-friendly websites and web apps.",
-      "description": "From marketing sites to complex SaaS dashboards — we craft web experiences that are responsive, accessible, and performant.",
+      "description": "From marketing sites to complex SaaS dashboards - we craft web experiences that are responsive, accessible, and performant.",
       "features": ["React / Next.js", "Responsive design", "SEO optimization", "Progressive Web Apps"]
     },
     {
@@ -29,7 +29,7 @@
       "icon": "Palette",
       "title": "Web & UI/UX Design",
       "short": "Pixel-perfect designs that convert visitors into customers.",
-      "description": "User-centered design grounded in research — wireframes, prototypes, and polished interfaces that feel premium.",
+      "description": "User-centered design grounded in research - wireframes, prototypes, and polished interfaces that feel premium.",
       "features": ["Figma prototypes", "Design systems", "User research", "Conversion-focused"]
     },
     {
@@ -45,14 +45,14 @@
       "icon": "Server",
       "title": "Cloud & Server Management",
       "short": "We handle the infrastructure so you can focus on the product.",
-      "description": "DevOps, CI/CD, monitoring, and server administration — 24/7 reliability for your production workloads.",
+      "description": "DevOps, CI/CD, monitoring, and server administration - 24/7 reliability for your production workloads.",
       "features": ["CI/CD pipelines", "Monitoring", "Backup strategies", "Security hardening"]
     },
     {
       "id": "database",
       "icon": "Database",
       "title": "Database Development",
-      "short": "Robust data layers — relational and NoSQL.",
+      "short": "Robust data layers - relational and NoSQL.",
       "description": "Schema design, query optimization, replication, and migration strategies for MongoDB, PostgreSQL, MySQL, and more.",
       "features": ["Schema design", "Query tuning", "Data migration", "Backup & recovery"]
     },
@@ -61,7 +61,7 @@
       "icon": "Sparkles",
       "title": "AI Integration",
       "short": "Bring intelligence to your products.",
-      "description": "Integrate LLMs, recommendation engines, and computer vision into your workflows — practical AI that solves real problems.",
+      "description": "Integrate LLMs, recommendation engines, and computer vision into your workflows - practical AI that solves real problems.",
       "features": ["LLM integration", "Custom chatbots", "Predictive analytics", "Computer vision"]
     },
     {
@@ -69,7 +69,7 @@
       "icon": "Briefcase",
       "title": "Project Management",
       "short": "Agile delivery, transparent communication.",
-      "description": "Sprint planning, milestone tracking, and stakeholder reporting — keeping every project on time and on budget.",
+      "description": "Sprint planning, milestone tracking, and stakeholder reporting - keeping every project on time and on budget.",
       "features": ["Agile / Scrum", "Daily updates", "Sprint reviews", "Risk mitigation"]
     },
     {
@@ -77,7 +77,7 @@
       "icon": "Headphones",
       "title": "Technical Support",
       "short": "Reliable support whenever you need it.",
-      "description": "Bug fixes, maintenance, and feature additions for existing applications — keep your software running smoothly.",
+      "description": "Bug fixes, maintenance, and feature additions for existing applications - keep your software running smoothly.",
       "features": ["24/7 availability", "Bug fixing", "Performance tuning", "Feature updates"]
     },
     {
@@ -85,7 +85,7 @@
       "icon": "TrendingUp",
       "title": "SEO & Digital Marketing",
       "short": "Get found by the right customers.",
-      "description": "On-page SEO, technical audits, content strategy, and analytics — building organic growth that lasts.",
+      "description": "On-page SEO, technical audits, content strategy, and analytics - building organic growth that lasts.",
       "features": ["On-page SEO", "Technical SEO", "Content strategy", "Analytics setup"]
     },
     {
@@ -93,7 +93,7 @@
       "icon": "GraduationCap",
       "title": "Final Year Project Support",
       "short": "Project stress? We're here to help.",
-      "description": "Semester and final year project support — from idea to implementation. Project development, debugging, documentation, deployment, and presentation help.",
+      "description": "Semester and final year project support - from idea to implementation. Project development, debugging, documentation, deployment, and presentation help.",
       "features": ["Project development", "Documentation", "Deployment & hosting", "Presentation support"]
     }
   ]
